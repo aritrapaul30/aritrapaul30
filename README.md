@@ -9,11 +9,11 @@
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Python | R | SQL  
+**Languages:** Python | R   
 **ML & Analytics:** Scikit-learn | XGBoost | Random Forest | K-Means | Regression  
-**Visualization:** Tableau | Power BI | Plotly | ggplot2  
+**Visualization:** Tableau | Plotly | ggplot2  
 **Deployment:** Gradio | Google AI Studio  
-**Tools:** WEKA | Apify | MS Excel (Advanced) | Git  
+**Tools:** WEKA | Apify | MS Excel |  
 
 ---
 
