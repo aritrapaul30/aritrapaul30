@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Aritra Paul 👋
+### Business Analyst | Data Analyst | MsBA @ Sunway University
 
-<!--
-**aritrapaul30/aritrapaul30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Selangor, Malaysia  
+📧 aritrapaul30@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/aritrapaul30)  
+🚀 Available for full-time roles from August 2026
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages:** Python | R | SQL  
+**ML & Analytics:** Scikit-learn | XGBoost | Random Forest | K-Means | Regression  
+**Visualization:** Tableau | Power BI | Plotly | ggplot2  
+**Deployment:** Gradio | Google AI Studio  
+**Tools:** WEKA | Apify | MS Excel (Advanced) | Git  
+
+---
+
+## 📂 Featured Projects
+
+| Project | Skills | Link |
+|---|---|---|
+| 🔋 EV SmartHub: AI Analytics Suite | Python, XGBoost, Gradio, Feature Engineering | [View Repo](#) |
+| 🏠 Real Estate Pricing with ML | Python, Random Forest, Gradient Boosting, EDA | [View Repo](#) |
+| 📊 E-Commerce BI Dashboard | Tableau, KPI Dashboarding, Business Intelligence | [View Repo](#) |
+| 🚗 Used Car Market Analysis | R, Regression, K-Means Clustering | [View Repo](#) |
+| 🏨 Airbnb NYC Pricing Analysis | Python, R, EDA, Regression | [View Repo](#) |
+| 🏨 Hotel ADR Forecasting | Python, Decision Trees, Revenue Analytics | [View Repo](#) |
+| 💬 Social Media Sentiment Analysis | Python, NLP, LDA, Naive Bayes, Apify | [View Repo](#) |
+
+---
+
+## 🏢 Industry Background
+- 1 yr 8 months Quality Assurance @ Cradel Pharmaceuticals
+- Client work for **P&G Health, Wallace Pharmaceuticals, Strassenburg Pharmaceuticals**
+- GMP | QMS | CAPA | Regulatory Compliance
+
+---
+
+## 📜 Certifications
+- 🟦 Gemini Certified Student — Google for Education (2026–2029)
+- 🟧 AI Certification — Anthropic
+- 💊 Registered Pharmacist — Pharmacy Council of India
