@@ -13,7 +13,7 @@
 **ML & Analytics:** Scikit-learn | XGBoost | Random Forest | K-Means | Regression  
 **Visualization:** Tableau | Plotly | ggplot2  
 **Deployment:** Gradio | Google AI Studio  
-**Tools:** WEKA | Apify | MS Excel |  
+**Tools:** WEKA | Apify | MS Excel 
 
 ---
 
