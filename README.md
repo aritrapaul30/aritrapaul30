@@ -4,7 +4,7 @@
 📍 Selangor, Malaysia  
 📧 aritrapaul30@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/aritrapaul30)  
-🚀 Available for full-time roles from August 2026
+
 
 ---
 
