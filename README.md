@@ -21,7 +21,7 @@
 
 | Project | Skills | Link |
 |---|---|---|
-| 🔋 EV SmartHub: AI Analytics Suite | Python, XGBoost, Gradio, Feature Engineering | [View Repo](#) |
+| 🔋 EV SmartHub: AI Analytics Suite | Python, XGBoost, Gradio, Feature Engineering | [View Repo](#https://github.com/aritrapaul30/real-estate-pricing-ml.git) |
 | 🏠 Real Estate Pricing with ML | Python, Random Forest, Gradient Boosting, EDA | [View Repo](#) |
 | 📊 E-Commerce BI Dashboard | Tableau, KPI Dashboarding, Business Intelligence | [View Repo](#) |
 | 🚗 Used Car Market Analysis | R, Regression, K-Means Clustering | [View Repo](#) |
