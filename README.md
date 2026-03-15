@@ -26,7 +26,7 @@
 | 📊 E-Commerce BI Dashboard | Tableau, KPI Dashboarding, Business Intelligence | [View Repo](#) |
 | 🚗 Used Car Market Analysis | R, Regression, K-Means Clustering | [View Repo](#) |
 | 🏨 Airbnb NYC Pricing Analysis | Python, R, EDA, Regression | [View Repo](#) |
-| 🏨 Hotel ADR Forecasting | Python, Decision Trees, Revenue Analytics | [View Repo](#) |
+| 🏨 Hotel ADR Forecasting | Python, Decision Trees, Revenue Analytics | [View Repo](https://github.com/aritrapaul30/hotel-adr-prediction) |
 | 💬 Social Media Sentiment Analysis | Python, NLP, LDA, Naive Bayes, Apify | [View Repo](#) |
 
 ---
