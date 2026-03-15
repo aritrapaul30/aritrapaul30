@@ -27,7 +27,7 @@
 | 🚗 Used Car Market Analysis | R, Regression, K-Means Clustering | [View Repo](https://github.com/aritrapaul30/used-car-market-analysis-R) |
 | 🏨 Airbnb NYC Pricing Analysis | Python, R, EDA, Regression | [View Repo](https://github.com/aritrapaul30/airbnb-nyc-pricing-analysis-R/tree/main) |
 | 🏨 Hotel ADR Forecasting | Python, Decision Trees, Revenue Analytics | [View Repo](https://github.com/aritrapaul30/hotel-adr-prediction) |
-| 💬 Social Media Sentiment Analysis | Python, NLP, LDA, Naive Bayes, Apify | [View Repo](#) |
+| 💬 Social Media Sentiment Analysis | Python, NLP, LDA, Naive Bayes, Apify | [View Repo](https://github.com/aritrapaul30/web-social-media-analytics-Shopee-MY/tree/main) |
 
 ---
 
