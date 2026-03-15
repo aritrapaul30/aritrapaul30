@@ -10,10 +10,10 @@
 
 ## 🛠️ Tech Stack
 **Languages:** Python | R | Markdown  
-**ML & Analytics:** Scikit-learn | XGBoost | Random Forest | K-Means | Regression | DistilBERT | VADER | NLTK 
-**Visualization:** Tableau | Plotly | ggplot2 | Matplotlib | Seaborn 
-**Deployment:** Gradio | Google AI Studio | Google Colab | Jupyter 
-**Tools:** WEKA | Apify | MS Excel | Knime | GitHub | Kaggle 
+**ML & Analytics:** Scikit-learn | XGBoost | Random Forest | K-Means | Regression | DistilBERT | VADER | NLTK  
+**Visualization:** Tableau | Plotly | ggplot2 | Matplotlib | Seaborn  
+**Deployment:** Gradio | Google AI Studio | Google Colab | Jupyter  
+**Tools:** WEKA | Apify | MS Excel | Knime | GitHub | Kaggle  
 
 ---
 
