@@ -24,7 +24,7 @@
 | 🔋 EV SmartHub: AI Analytics Suite | Python, XGBoost, Gradio, Feature Engineering | [View Repo](#) |
 | 🏠 Real Estate Pricing with ML | Python, Random Forest, Gradient Boosting, EDA | [View Repo](https://github.com/aritrapaul30/real-estate-pricing-ml.git) |
 | 📊 E-Commerce BI Dashboard | Tableau, KPI Dashboarding, Business Intelligence | [View Repo](#) |
-| 🚗 Used Car Market Analysis | R, Regression, K-Means Clustering | [View Repo](#) |
+| 🚗 Used Car Market Analysis | R, Regression, K-Means Clustering | [View Repo](https://github.com/aritrapaul30/used-car-market-analysis-R) |
 | 🏨 Airbnb NYC Pricing Analysis | Python, R, EDA, Regression | [View Repo](#) |
 | 🏨 Hotel ADR Forecasting | Python, Decision Trees, Revenue Analytics | [View Repo](https://github.com/aritrapaul30/hotel-adr-prediction) |
 | 💬 Social Media Sentiment Analysis | Python, NLP, LDA, Naive Bayes, Apify | [View Repo](#) |
