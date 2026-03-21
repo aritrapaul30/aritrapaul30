@@ -41,5 +41,6 @@
 ## 📜 Certifications
 - 🟦 Gemini Certified Student — Google for Education (2026–2029)
 - 🟧 Claude Code in Action — Anthropic (Claude AI)
-- 🟧 Introduction to Agent Skills — Anthropic (Claude AI)	
+- 🟧 Introduction to Agent Skills — Anthropic (Claude AI)
+- 🟧 Claude 101 — Anthropic (Claude AI)	
 - 💊 Registered Pharmacist — Pharmacy Council of India
