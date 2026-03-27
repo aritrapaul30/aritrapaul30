@@ -2,9 +2,6 @@
 ### Business Analyst | Data Analyst | MsBA @ Sunway University
 
 📍 Selangor, Malaysia  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aritrapaul30) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aritrapaul30@gmail.com) 
-
 📧 aritrapaul30@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/aritrapaul30)  
 
