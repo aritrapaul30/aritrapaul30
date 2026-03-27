@@ -1,5 +1,6 @@
 # Hi, I'm Aritra Paul 👋
 ### Business Analyst | Data Analyst | MsBA @ Sunway University
+![Uploading Gemini_Generated_Image_e9rvhoe9rvhoe9rv.png…]()
 
 📍 Selangor, Malaysia  
 📧 aritrapaul30@gmail.com  
