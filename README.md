@@ -9,7 +9,7 @@
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Python | R | Markdown  
+**Languages:** ![Python] | R | Markdown  
 **ML & Analytics:** Scikit-learn | XGBoost | Random Forest | K-Means | Regression | DistilBERT | VADER | NLTK  
 **Visualization:** Tableau | Plotly | ggplot2 | Matplotlib | Seaborn  
 **Deployment:** Gradio | Google AI Studio | Google Colab | Jupyter  
