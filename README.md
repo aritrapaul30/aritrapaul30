@@ -14,7 +14,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### 🤖 ML & Analytics
@@ -22,11 +22,17 @@
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189C3E?style=for-the-badge&logo=python&logoColor=white)
 ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=python&logoColor=white)
+![Gradient Boosting](https://img.shields.io/badge/Gradient_Boosting-FF6600?style=for-the-badge&logo=python&logoColor=white)
+![Decision Trees](https://img.shields.io/badge/Decision_Trees-2E8B57?style=for-the-badge&logo=python&logoColor=white)
 ![K-Means](https://img.shields.io/badge/K--Means-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![Regression](https://img.shields.io/badge/Regression-8E44AD?style=for-the-badge&logo=python&logoColor=white)
+![Naive Bayes](https://img.shields.io/badge/Naive_Bayes-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LDA](https://img.shields.io/badge/LDA-8B0000?style=for-the-badge&logo=python&logoColor=white)
 ![DistilBERT](https://img.shields.io/badge/DistilBERT-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
 ![VADER](https://img.shields.io/badge/VADER-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-9B59B6?style=for-the-badge&logo=python&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-17A589?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📊 Visualization
 
@@ -45,6 +51,8 @@
 
 ### 🔧 Tools
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
 ![WEKA](https://img.shields.io/badge/WEKA-FF0000?style=for-the-badge&logo=java&logoColor=white)
 ![Apify](https://img.shields.io/badge/Apify-00C061?style=for-the-badge&logo=apify&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
