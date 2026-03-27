@@ -1,6 +1,8 @@
 # Hi, I'm Aritra Paul 👋
 ### Business Analyst | Data Analyst | MsBA @ Sunway University
-![Uploading Gemini_Generated_Image_e9rvhoe9rvhoe9rv.png…]()
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/aritrapaul30/aritrapaul30/main/header.png](https://github.com/aritrapaul30/aritrapaul30/blob/main/Baner.png?raw=true)" alt="Aritra Paul - GitHub Banner" width="100%"/>
+</p>
 
 📍 Selangor, Malaysia  
 📧 aritrapaul30@gmail.com  
