@@ -54,3 +54,57 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aritrapaul30) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aritrapaul30@gmail.com) 
 
+
+## 💻 Tech Stack
+
+---
+
+### 👨‍💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
+### 🤖 ML & Analytics
+
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189C3E?style=for-the-badge&logo=python&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=python&logoColor=white)
+![K-Means](https://img.shields.io/badge/K--Means-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![Regression](https://img.shields.io/badge/Regression-8E44AD?style=for-the-badge&logo=python&logoColor=white)
+![DistilBERT](https://img.shields.io/badge/DistilBERT-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
+![VADER](https://img.shields.io/badge/VADER-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 📊 Visualization
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-FC4E07?style=for-the-badge&logo=r&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 🚀 Deployment
+
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=huggingface&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+### 🔧 Tools
+
+![WEKA](https://img.shields.io/badge/WEKA-FF0000?style=for-the-badge&logo=java&logoColor=white)
+![Apify](https://img.shields.io/badge/Apify-00C061?style=for-the-badge&logo=apify&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![KNIME](https://img.shields.io/badge/KNIME-FFC000?style=for-the-badge&logo=knime&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
