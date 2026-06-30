@@ -67,6 +67,7 @@
 
 | Project | Skills | Link |
 |---|---|---|
+| 🫀 Heart Disease ML Comparison | Python, Scikit-learn, Gradient Boosting, KNN Imputation | [![GithubRepo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/aritrapaul30/heart-disease-ml-comparison) |
 | 🔋 EV SmartHub: AI Analytics Suite | Python, XGBoost, Gradio, Feature Engineering | [![GithubRepo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/aritrapaul30/ev-smarthub-ai-analytics/tree/main) 
 | 🏠 Real Estate Pricing with ML | Python, Random Forest, Gradient Boosting, EDA | [![GithubRepo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/aritrapaul30/real-estate-pricing-ml.git) |
 | 📊 E-Commerce BI Dashboard | Tableau, KPI Dashboarding, Business Intelligence | [![GithubRepo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/aritrapaul30/ecommerce-bi-dashboard-tableau) |
