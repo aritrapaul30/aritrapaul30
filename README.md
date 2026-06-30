@@ -87,12 +87,18 @@
 
 ---
 
-## 📜 Certifications
-- 🟦 Gemini Certified Student — Google for Education (2026–2029)
-- 🟧 Claude Code in Action — Anthropic (Claude AI)
-- 🟧 Introduction to Agent Skills — Anthropic (Claude AI)
-- 🟧 Claude 101 — Anthropic (Claude AI)	
-- 💊 Registered Pharmacist — Pharmacy Council of India
+- ## 📜 Certifications
+  
+- 🟦 Introduction to Career Skills in Data Analytics - LinkedIn Learning
+- 🟦 Power BI Essential Training - LinkedIn Learning
+- 🟦 Gemini Certified Student - Google for Education (2026–2029)
+- 🟧 Claude Code in Action - Anthropic (Claude AI)
+- 🟧 Introduction to Agent Skills - Anthropic (Claude AI)
+- 🟧 Claude 101 - Anthropic (Claude AI)
+- 🟧 Deloitte Australia - Data Analytics Job Simulation
+- 🟦 Certificate of Training in Bio-Lab
+- 🟧 Biomedical Data or Specimens Only Research - Basic/Refresher
+- 💊 Registered Pharmacist - Pharmacy Council of India
 
 
 
