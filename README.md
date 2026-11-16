@@ -68,15 +68,16 @@
 
 | Project | Skills | Link |
 |---|---|---|
+| 💬 Social Media Sentiment Analysis | Python, NLP, LDA, Naive Bayes, Apify | [![GithubRepo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/aritrapaul30/web-social-media-analytics-Shopee-MY/tree/main) |
 | 🫀 Heart Disease ML Comparison | Python, Scikit-learn, Gradient Boosting, KNN Imputation | [![GithubRepo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/aritrapaul30/heart-disease-ml-comparison) |
 | ✈️ Indian Flight Fare Prediction | Python, Random Forest, Gradio, Feature Engineering | [![GithubRepo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/aritrapaul30/indian-flight-fare-prediction) |
-| 🔋 EV SmartHub: AI Analytics Suite | Python, XGBoost, Gradio, Feature Engineering | [![GithubRepo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/aritrapaul30/ev-smarthub-ai-analytics/tree/main) 
+| 🛒 Shopee Sales Analytics (SEA) | Python, Pandas, Data Cleaning, EDA, Seaborn | [![GithubRepo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/aritrapaul30/shopee-sales-analytics) |
+| 🔋 EV SmartHub: AI Analytics Suite | Python, XGBoost, Gradio, Feature Engineering | [![GithubRepo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/aritrapaul30/ev-smarthub-ai-analytics/tree/main) |
 | 🏠 Real Estate Pricing with ML | Python, Random Forest, Gradient Boosting, EDA | [![GithubRepo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/aritrapaul30/real-estate-pricing-ml.git) |
 | 📊 E-Commerce BI Dashboard | Tableau, KPI Dashboarding, Business Intelligence | [![GithubRepo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/aritrapaul30/ecommerce-bi-dashboard-tableau) |
 | 🚗 Used Car Market Analysis | R, Regression, K-Means Clustering | [![GithubRepo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/aritrapaul30/used-car-market-analysis-R) |
 | 🏨 Airbnb NYC Pricing Analysis | Python, R, EDA, Regression | [![GithubRepo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/aritrapaul30/airbnb-nyc-pricing-analysis-R/tree/main) |
 | 🏨 Hotel ADR Forecasting | Python, Decision Trees, Revenue Analytics | [![GithubRepo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/aritrapaul30/hotel-adr-prediction) |
-| 💬 Social Media Sentiment Analysis | Python, NLP, LDA, Naive Bayes, Apify | [![GithubRepo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/aritrapaul30/web-social-media-analytics-Shopee-MY/tree/main) |
 | 🏦 Malaysian Banking Analytics | SQL, MySQL, Database Design, Window Functions | [![GithubRepo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/aritrapaul30/malaysian-banking-analytics-sql) |
 
 ---
@@ -88,24 +89,45 @@
 
 ---
 
-- ## 📜 Certifications
-  
-- 🟦 Introduction to Career Skills in Data Analytics - LinkedIn Learning
-- 🟦 Power BI Essential Training - LinkedIn Learning
-- 🟦 Gemini Certified Student - Google for Education (2026–2029)
-- 🟧 Claude Code in Action - Anthropic (Claude AI)
-- 🟧 Introduction to Agent Skills - Anthropic (Claude AI)
-- 🟧 Claude 101 - Anthropic (Claude AI)
-- 🟧 Deloitte Australia - Data Analytics Job Simulation
-- 🟦 Certificate of Training in Bio-Lab
-- 🟧 Biomedical Data or Specimens Only Research - Basic/Refresher
-- 💊 Registered Pharmacist - Pharmacy Council of India
+## 🖥️ IT & Data Experience
+- 5 yrs Data & Inventory Analyst (Remote, Part-Time) @ Digital Den (Aug 2020 - Aug 2025)
+- Built an **Excel-based data warehouse** from scratch, consolidating inventory and sales across categories
+- Created **Pivot Table dashboards** for sales and inventory trends, enabling data-driven restocking and the business's first centralised view of performance
+- Data Warehousing | Excel Dashboards | Inventory & Sales Analytics
 
+---
+
+## 📜 Certifications
+
+### 📊 Data Analytics & BI
+- 🟦 Career Essentials in Data Analysis - Microsoft & LinkedIn (Learning Path, 2026)
+  - Introduction to Career Skills in Data Analytics
+  - Learning Data Analytics: 1 Foundations
+  - Learning Data Analytics Part 2: Extending and Applying Core Knowledge
+  - Data Analytics for Business Professionals
+  - Data Visualization for Data Analysts and Analytics
+- 🟦 Power BI Essential Training - LinkedIn Learning (2026)
+- 🟦 Business Development: Strategic Planning - LinkedIn Learning (2026)
+- 🟩 Deloitte Australia - Data Analytics Job Simulation (Forage, 2026)
+
+### 🤖 AI
+- 🟧 Claude Code in Action - Anthropic (2026)
+- 🟧 Introduction to Agent Skills - Anthropic (2026)
+- 🟧 Claude 101 - Anthropic (2026)
+- 🟦 Gemini Certified Student - Google for Education (2026 - 2029)
+
+### 🔬 Research Ethics - CITI Program (2026 - 2029)
+- 🟪 Social & Behavioral Research - Basic/Refresher
+- 🟪 Biomedical Data or Specimens Only Research - Basic/Refresher
+- 🟪 IRB Chair
+- 🟪 Students Conducting No More Than Minimal Risk Research (Class Projects)
+
+### 💊 Pharmacy
+- 💊 Registered Pharmacist - Pharmacy Council of India
+- 🟦 Certificate of Training in Bio-Lab
 
 
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aritrapaul30) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aritrapaul30@gmail.com) 
-
-
