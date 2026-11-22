@@ -91,10 +91,13 @@
 ---
 
 ## 🖥️ IT & Data Experience
-- 5 yrs Data & Inventory Analyst (Remote, Part-Time) @ Digital Den (Aug 2020 - Aug 2025)
-- Built an **Excel-based data warehouse** from scratch, consolidating inventory and sales across categories
+- **Owner & Data Analyst @ Digital Den** (Remote, Part-Time) | Aug 2020 - Present
+- Run an electronics resale business, mainly mobile phones: source online at low prices and resell in the offline market
+- Use market and sales data to choose the best-selling, most profitable models to stock
+- Built an **Excel-based data warehouse** (structured records since 2022), consolidating inventory and sales across categories
 - Created **Pivot Table dashboards** for sales and inventory trends, enabling data-driven restocking and the business's first centralised view of performance
-- Data Warehousing | Excel Dashboards | Inventory & Sales Analytics
+- Built a **web-based order & delivery tracker** (HTML/JavaScript, Google Apps Script, Google Sheets) that replaced manual WhatsApp-to-Excel entry and tracks dealer bookings and client payments
+- Data Warehousing | Excel Dashboards | Google Sheets & Apps Script | Inventory & Sales Analytics
 
 ---
 
