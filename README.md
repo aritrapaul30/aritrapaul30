@@ -69,6 +69,7 @@
 | Project | Skills | Link |
 |---|---|---|
 | 💬 Social Media Sentiment Analysis | Python, NLP, LDA, Naive Bayes, Apify | [![GithubRepo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/aritrapaul30/web-social-media-analytics-Shopee-MY/tree/main) |
+| 🏥 Hospital Performance BI Dashboard | Power BI, DAX, Power Query, Data Modelling | [![GithubRepo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/aritrapaul30/hospital-performance-bi-powerbi) |
 | 🫀 Heart Disease ML Comparison | Python, Scikit-learn, Gradient Boosting, KNN Imputation | [![GithubRepo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/aritrapaul30/heart-disease-ml-comparison) |
 | ✈️ Indian Flight Fare Prediction | Python, Random Forest, Gradio, Feature Engineering | [![GithubRepo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/aritrapaul30/indian-flight-fare-prediction) |
 | 🛒 Shopee Sales Analytics (Southeast Asia) | Python, Pandas, Data Cleaning, EDA, Seaborn | [![GithubRepo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/aritrapaul30/shopee-sales-analytics-southeast-asia) |
